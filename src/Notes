@@ -1,0 +1,18 @@
+Why do we need GIT?
+Manage our versions locally on our computer
+
+What is GIT?
+version control tool, local repository
+
+What is github?
+remote repository
+
+Revision
+TRacking our first project using GIT
+scenario: work on a project and maintain the version locally as well as on github
+
+Approach:
+--Tracking our very first project
+1-Choose the location where you want to create the repo--> create the repo inside your working directory
+Note: make sure you don't have any sub-repos (repo inside a repo)
+2-navigate the terminal to the right location
