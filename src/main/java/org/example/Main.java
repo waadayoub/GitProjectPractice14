@@ -3,6 +3,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("First Version is Complete");
+        System.out.println("Version is Complete");
     }
 }
